@@ -1,4 +1,2 @@
 # Rewind
-Rewind Unity Game
-
-Side Project
+ Rewind Unity Game
